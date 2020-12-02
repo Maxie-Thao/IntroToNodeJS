@@ -1,0 +1,20 @@
+{
+  "name": "is350labs",
+  "version": "14.15.1",
+  "description": "Simple NodeJS Web App",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxie-Thao/IntroToNodeJS.git"
+  },
+  "author": "Maxie Thao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxie-Thao/IntroToNodeJS/issues"
+  },
+  "homepage": "https://github.com/Maxie-Thao/IntroToNodeJS#readme"
+}
